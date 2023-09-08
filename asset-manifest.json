@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wanderlustshoppingcart/static/css/main.24153ad7.css",
-    "main.js": "/wanderlustshoppingcart/static/js/main.2cbb1829.js",
-    "static/js/787.cda612ba.chunk.js": "/wanderlustshoppingcart/static/js/787.cda612ba.chunk.js",
-    "static/media/login-animation.gif": "/wanderlustshoppingcart/static/media/login-animation.97a8f494ac4826dd1781.gif",
-    "static/media/logo.svg": "/wanderlustshoppingcart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/wanderlustshoppingcart/index.html",
-    "main.24153ad7.css.map": "/wanderlustshoppingcart/static/css/main.24153ad7.css.map",
-    "main.2cbb1829.js.map": "/wanderlustshoppingcart/static/js/main.2cbb1829.js.map",
-    "787.cda612ba.chunk.js.map": "/wanderlustshoppingcart/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/frontend/static/css/main.24153ad7.css",
+    "main.js": "/frontend/static/js/main.65cf47d2.js",
+    "static/js/787.cda612ba.chunk.js": "/frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/login-animation.gif": "/frontend/static/media/login-animation.97a8f494ac4826dd1781.gif",
+    "static/media/logo.svg": "/frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/frontend/index.html",
+    "main.24153ad7.css.map": "/frontend/static/css/main.24153ad7.css.map",
+    "main.65cf47d2.js.map": "/frontend/static/js/main.65cf47d2.js.map",
+    "787.cda612ba.chunk.js.map": "/frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24153ad7.css",
-    "static/js/main.2cbb1829.js"
+    "static/js/main.65cf47d2.js"
   ]
 }

@@ -12,12 +12,12 @@ const Signup = () => {
   const[showPassword,setShowPassword] = useState(false)
   const[showConfirmPassword,setShowConfirmPassword] = useState(false)
   const[data,setData]=useState({
-    firstName: "",
-    lastName: "",
-    email: "",
-    password: "",
-    confirmPassword: "",
-    image : ""
+    firstName:"",
+    lastName:"",
+    email:"",
+    password:"",
+    confirmPassword:"",
+    image:""
 
   });
   console.log(data);
@@ -58,8 +58,8 @@ const Signup = () => {
   }
   //console.log(process.env.REACT_APP_SERVER_DOMIN)
   const handleSubmit  = async(e) =>{
-    e.preventDefault()
-    const {firstName,email,password,confirmPassword} = data
+    e.preventDefault();
+    const {firstName,email,password,confirmPassword} = data;
     if(firstName && email && password && confirmPassword){
       if(password===confirmPassword){
         const fetchData = await fetch(`${process.env.REACT_APP_SERVER_DOMIN}signup`,{

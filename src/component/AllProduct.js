@@ -70,7 +70,7 @@ const loadingArrayFeature = new Array(10).fill(null)
   <CiForkAndKnife/> */}
 
 </div> 
-<div className='flex fex-wrap  justify-center gap-4'>
+<div className='flex fex-wrap  justify-center gap-2'>
   {
    DataFilter[0]? DataFilter.map(el =>{
       return(
